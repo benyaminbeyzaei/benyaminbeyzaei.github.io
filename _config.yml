@@ -9,10 +9,6 @@ lang: en-GB
 # Use UK time for post dates, whatever timezone the build machine is in
 timezone: Europe/London
 
-# Show the link preview image as a small thumbnail rather than a large banner
-twitter:
-  card: summary
-
 author:
   name: Benyamin Beyzaei
   url: https://benyaminbeyzaei.fyi
@@ -39,6 +35,10 @@ defaults:
         width: 600
         height: 600
         alt: Portrait of Benyamin Beyzaei
+      # Small thumbnail preview rather than a large banner. Set per page: a
+      # site-level `twitter:` key makes jekyll-seo-tag emit empty twitter:site/creator tags
+      twitter:
+        card: summary
   - scope:
       path: ""
       type: posts
