@@ -1,0 +1,15 @@
+/plans
+
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+# Original full-resolution portrait (resized copies live in assets/img/)
+/image.jpg
+
+.DS_Store
