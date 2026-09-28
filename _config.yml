@@ -1,0 +1,48 @@
+# Site settings (also used by jekyll-seo-tag for titles, descriptions and link previews)
+title: Benyamin Beyzaei
+tagline: PhD student at the University of Edinburgh
+description: >-
+  PhD student at the University of Edinburgh (CDT in ML Systems) working on
+  automated software engineering, software vulnerabilities and software testing.
+url: https://benyaminbeyzaei.fyi
+lang: en-GB
+
+author:
+  name: Benyamin Beyzaei
+  url: https://benyaminbeyzaei.fyi
+
+# Emitted as JSON-LD "sameAs" so search engines link these profiles to this site
+social:
+  name: Benyamin Beyzaei
+  links:
+    - https://github.com/benyaminbeyzaei
+    - https://www.linkedin.com/in/benyamin-beyzaei/
+    - https://scholar.google.com/citations?user=7emya8AAAAAJ
+    - https://orcid.org/0009-0001-4616-9552
+
+permalink: /blog/:year/:title/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - plans/
+  - README.md
+  - mise.toml
+  - image.jpg
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
