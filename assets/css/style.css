@@ -103,6 +103,18 @@ img {
 	outline-offset: 2px;
 }
 
+/* Home page: portrait next to the name */
+.intro {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 1rem;
+	margin-block: 1.5rem;
+}
+.intro h1 {
+	margin: 0;
+}
+
 nav ul {
 	display: flex;
 	flex-wrap: wrap;
