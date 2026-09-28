@@ -63,6 +63,18 @@ body {
 	line-height: 1.5;
 }
 
+/* Keep the footer at the bottom of the window on short pages */
+body {
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	min-height: 100vh;
+	min-height: 100dvh;
+}
+main {
+	flex: 1;
+}
+
 h1, h2, h3 {
 	margin-block: 1.5em 0.5em;
 	font-weight: bold;
@@ -103,16 +115,15 @@ img {
 	outline-offset: 2px;
 }
 
-/* Home page: portrait next to the name */
+/* Home page: portrait with the name underneath */
 .intro {
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	gap: 1rem;
 	margin-block: 1.5rem;
 }
+.intro img {
+	display: block;
+}
 .intro h1 {
-	margin: 0;
+	margin: 0.75rem 0 0;
 }
 
 nav ul {

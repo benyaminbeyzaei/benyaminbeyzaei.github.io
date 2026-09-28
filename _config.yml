@@ -6,6 +6,8 @@ description: >-
   automated software engineering, software vulnerabilities and software testing.
 url: https://benyaminbeyzaei.fyi
 lang: en-GB
+# Use UK time for post dates, whatever timezone the build machine is in
+timezone: Europe/London
 
 # Show the link preview image as a small thumbnail rather than a large banner
 twitter:

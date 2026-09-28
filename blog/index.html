@@ -1,0 +1,20 @@
+---
+title: Blog
+description: Writing by Benyamin Beyzaei on software engineering, software vulnerabilities and software testing.
+---
+<h1>Blog</h1>
+
+{% if site.posts.size > 0 %}
+<ul>
+  {% for post in site.posts %}
+  <li>
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%-d %B %Y' }}</time>:
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>No posts yet.</p>
+{% endif %}
+
+<p><a href="{{ '/feed.xml' | relative_url }}">Subscribe to the feed</a> (Atom).</p>
