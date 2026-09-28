@@ -7,6 +7,10 @@ description: >-
 url: https://benyaminbeyzaei.fyi
 lang: en-GB
 
+# Show the link preview image as a small thumbnail rather than a large banner
+twitter:
+  card: summary
+
 author:
   name: Benyamin Beyzaei
   url: https://benyaminbeyzaei.fyi
@@ -27,6 +31,12 @@ defaults:
       path: ""
     values:
       layout: default
+      # Link preview image for every page (jekyll-seo-tag reads it per page)
+      image:
+        path: /assets/img/og-portrait.jpg
+        width: 600
+        height: 600
+        alt: Portrait of Benyamin Beyzaei
   - scope:
       path: ""
       type: posts
