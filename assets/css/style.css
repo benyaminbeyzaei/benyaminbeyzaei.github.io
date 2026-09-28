@@ -51,6 +51,9 @@ table {
 
 html {
 	color-scheme: light dark;
+	/* System colours: follow light/dark mode and let tools measure contrast */
+	background-color: Canvas;
+	color: CanvasText;
 	font-family: system-ui, sans-serif;
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
