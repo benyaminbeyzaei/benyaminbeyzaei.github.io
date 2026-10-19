@@ -6,7 +6,7 @@
   <h1>Benyamin Beyzaei</h1>
 </div>
 
-I'm a PhD student at the [University of Edinburgh](https://www.ed.ac.uk/), where I joined the [CDT in Machine Learning Systems](https://mlsystems.uk/) in 2026. I'm supervised by [Adriana Sejfia](https://asejfia.github.io/) and [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/).
+I'm a PhD student at the [University of Edinburgh](https://www.ed.ac.uk/), where I joined the [CDT in Machine Learning Systems](https://informatics.ed.ac.uk/cdt-in-machine-learning-systems/people/students/cohort-3-2026-entry) in 2026. I'm supervised by [Adriana Sejfia](https://asejfia.github.io/) and [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/).
 
 ## Research
 
@@ -25,7 +25,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=7emya8AA
 
 - Software Engineer, [Intraverse](https://www.linkedin.com/company/intraverse-game), April 2024 – September 2026
 - Software Engineer, [Divar](https://www.linkedin.com/company/divarofficial), November 2021 – April 2024
-- Teaching Assistant, Sharif University of Technology, 2020 – 2023: Basic Programming, Advanced Programming, Data Structures and Algorithms, and Mobile Programming
+- Teaching Assistant, [Sharif University of Technology](https://en.wikipedia.org/wiki/Sharif_University_of_Technology), 2020 – 2023: Basic Programming, Advanced Programming, Data Structures and Algorithms, and Mobile Programming
 - Before all that, I bounced around startups as a software engineer, shipping whatever needed shipping.
 
 ## Education
