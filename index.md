@@ -19,7 +19,7 @@ My interests are software engineering, software vulnerabilities and software tes
   Proceedings of the ACM on Software Engineering, Vol. 2, ISSTA, pp. 2227–2250, 2025.\\
   [PDF](https://dl.acm.org/doi/pdf/10.1145/3728975) · [DOI](https://doi.org/10.1145/3728975) · [Code](https://github.com/seal-hub/llmigrate)
 
-Full list on [Google Scholar](https://scholar.google.com/citations?user=7emya8AAAAAJ&hl=en).
+Full list on [Google Scholar](https://scholar.google.com/citations?user=UDRiL60AAAAJ).
 
 ## Experience
 
@@ -39,5 +39,5 @@ If you're interested in working with me, email me at [b.beyzaei@sms.ed.ac.uk](ma
 
 - [GitHub](https://github.com/benyaminbeyzaei)
 - [LinkedIn](https://www.linkedin.com/in/benyamin-beyzaei/)
-- [Google Scholar](https://scholar.google.com/citations?user=7emya8AAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=UDRiL60AAAAJ)
 - [ORCID](https://orcid.org/0009-0001-4616-9552)
